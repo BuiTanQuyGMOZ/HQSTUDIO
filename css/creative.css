@@ -10,7 +10,7 @@ html {
 #home_decs
 {text-align: center !important;}
 #strongly_slogan
-{color: white !important;font-size: 2em;}
+{color: orange !important;font-size: 2em;}
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
@@ -20,7 +20,7 @@ hr {
   border-color: #F05F40; }
 
 hr.light {
-  border-color: white; }
+  border-color: orange; }
 
 a {
   color: #F05F40;
