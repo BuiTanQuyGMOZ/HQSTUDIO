@@ -20,7 +20,7 @@ hr {
   border-color: #F05F40; }
 
 hr.light {
-  border-color: orange; }
+  border-color: #FF9700:; }
 
 a {
   color: #F05F40;
@@ -44,7 +44,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #F05F40 !important; }
+  background-color: #FF9700: !important; }
 
 .bg-dark {
   color: white;
